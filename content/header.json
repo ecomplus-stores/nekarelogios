@@ -4,12 +4,7 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
@@ -19,7 +14,7 @@
       "/relogios-de-rodas-automotivas/?Relogios de Rodas Automotivas",
       "/relogios-de-motos/?Relógios de Motos"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
   "search_input": true
