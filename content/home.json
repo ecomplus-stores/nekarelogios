@@ -33,12 +33,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-frete-gratis-dodge.jpg",
-          "mobile_img": "/img/uploads/banner-frete-gratis-dodge.jpg"
-        }
-      ]
+      "banners": []
     }
   ]
 }
