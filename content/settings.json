@@ -1,23 +1,23 @@
 {
-  "store_id": 1287,
-  "name": "nekarelogios",
   "domain": "nekarelogios.netlify.app",
-  "short_name": "nekarelogios",
-  "description": "nekarelogios",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logotipo-neka-relogios-copia.png",
+  "name": "Neka Relógios Personalizados ",
+  "short_name": "Neka Relógios",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logotipo-neka-relogios-copia.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logotipo-neka-relogios-copia.png",
+  "store_id": 1287,
+  "description": "nekarelogios",
+  "large_icon": "/img/uploads/logotipo-neka-relogios-copia.png"
 }
