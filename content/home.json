@@ -8,9 +8,23 @@
       "slides": [
         {
           "start": "2021-04-23T19:22:17.430Z",
-          "end": "2021-04-23T19:22:17.468Z",
+          "end": "",
           "img": "/img/uploads/banner-frete-gratis-dodge.jpg",
           "mobile_img": "/img/uploads/banner-frete-gratis-dodge.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "https://cdn.ecvol.com/s/www.nekarelogios.com.br/uploads/li_gold_banner_3-min.jpg"
+        },
+        {
+          "img": "https://cdn.ecvol.com/s/www.nekarelogios.com.br/uploads/li_2rodas_banner_3-min.jpg"
+        },
+        {
+          "img": "https://cdn.ecvol.com/s/www.nekarelogios.com.br/uploads/Relogios-femininos-mini-banner-70.jpg"
         }
       ]
     },
@@ -30,10 +44,6 @@
       "type": "page-title",
       "title": "Neka Relógios ",
       "description": "Relógios Personalizados "
-    },
-    {
-      "type": "banners-grid",
-      "banners": []
     }
   ]
 }
