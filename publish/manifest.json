@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.81459168cb2b6357cc5303000386267e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3ffbc7314b18ca123d97d3e0a2c59e58.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.25c7c3a5ff938cd66290c5d06637cd28.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b4cd49b78c050eaf64ef31d1a8b252d4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c6ffc7ff9f2fd0b179fe828f2fad28d4.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Neka Relógios Personalizados ",
+  "short_name": "Neka Relógios",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Relógios Personalizados e Exclusivos. Somos apaixonados por motor, colocamos nossa paixão em relógios.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
