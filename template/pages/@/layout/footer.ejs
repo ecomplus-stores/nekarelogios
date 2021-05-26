@@ -109,6 +109,10 @@ const networksWithColors = [
           <div class="collapse" id="footer-pages">
             <% if (footer.links_1.list_pages) { %>
               <ul class="footer__links">
+                <li>
+                  <i class="fas fa-angle-right"></i>
+                  <a href="/">Inícios</a>
+                </li>
                 <% (_.cms('pages') || []).forEach(slug => { %>
                   <% const { title } = _.cms(`pages/${slug}`) %>
                   <li>
