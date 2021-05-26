@@ -15,22 +15,27 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Relógios Personalizados",
+      "description": ""
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "https://cdn.ecvol.com/s/www.nekarelogios.com.br/uploads/li_gold_banner_3-min.jpg"
+          "img": "/img/uploads/li_gold_banner_3-min.jpg"
         },
         {
-          "img": "https://cdn.ecvol.com/s/www.nekarelogios.com.br/uploads/li_2rodas_banner_3-min.jpg"
+          "img": "/img/uploads/li_2rodas_banner_3-min.jpg"
         },
         {
-          "img": "https://cdn.ecvol.com/s/www.nekarelogios.com.br/uploads/Relogios-femininos-mini-banner-70.jpg"
+          "img": "/img/uploads/Relogios-femininos-mini-banner-70.jpg"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
@@ -41,9 +46,12 @@
       "sort": "sales"
     },
     {
-      "type": "page-title",
-      "title": "Neka Relógios ",
-      "description": "Relógios Personalizados "
+      "type": "responsive-banner",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-site-sincero-trustvox-min.jpg"
+        }
+      ]
     }
   ]
 }
