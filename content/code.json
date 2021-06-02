@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
-  "html_body": ""
+  "html_head": "<!-- inicio codigo Pinterest --><meta name=\"p:domain_verify\" content=\"0ecd14beb23d797de758fc88cb30f2bf\"/><!-- final codigo Pinterest -->\n<!-- inicio código Bing --><meta name=\"msvalidate.01\" content=\"2B0E1177D2EB2A215EFD434870D8C87E\" /><!-- finalcódigo Bing --><!-- inicio código PUSH ONESIGNAL --><link rel=\"manifest\" href=\"/manifest.json\" /><script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async></script><script>var OneSignal = window.OneSignal || [];OneSignal.push(function() {OneSignal.init({appId: \"5043011c-a211-4151-9da7-f458fe6975f1\"});});</script><!-- final código PUSH ONESIGNAL --><script src=\"//widget.manychat.com/355706171288375.js\" async=\"async\"></script>",
+  "html_body": "<a href=\"https://wa.me/5511971499017&text=cliquei%20no%20link%20do%20site%20e%20gostaria%20de%20esclarecer%20algumas%20duvidas\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\"><i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i></a><script src=\"//mkt.nekarelogios.com.br/focus/2.js\" type=\"text/javascript\" charset=\"utf-8\" async=\"async\"></script><script src=\"//mkt.nekarelogios.com.br/focus/1.js\" type=\"text/javascript\" charset=\"utf-8\" async=\"async\"></script>"
 }

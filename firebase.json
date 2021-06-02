@@ -1,6 +1,96 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/pagina/trocas",
+        "destination": "/pages/trocas",
+        "type": 301
+      },
+      {
+        "source": "/pagina/pagamento",
+        "destination": "/pages/pagamentos",
+        "type": 301
+      },
+      {
+        "source": "/pagina/privacidade",
+        "destination": "/pages/privacidade",
+        "type": 301
+      },
+      {
+        "source": "/contato",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+      {
+        "source": "/grid/lancamentos",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/destaques",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/linha-luxo-relogios-com-paineis-de-luxo",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogio-cromado-modelo-5028",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogio-de-pulso-cromado-modelo-5276",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogio-dourado-modelo-5776",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogio-feminino-cobre-3330",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogio-feminino-cromado-3330",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogio-feminino-dourado-3330",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogios-com-paineis-classicos",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogios-para-o-dia-a-dia",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogios-dourados",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogios-femininos",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/grid/relogios-pulseira-de-borracha-5036",
+        "destination": "/",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
