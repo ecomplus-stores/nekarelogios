@@ -12,9 +12,10 @@
     "featured": [
       "/relogios-automotivos/?Relógios Automotivos",
       "/relogios-de-rodas-automotivas/?Relogios de Rodas Automotivas",
-      "/relogios-de-motos/?Relógios de Motos"
+      "/relogios-de-motos/?Relógios de Motos",
+      "/relogios-femininos/?Relógios Femininos"
     ],
-    "random": 0,
+    "random": 3,
     "full_width": true
   },
   "search_input": true
