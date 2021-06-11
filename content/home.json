@@ -47,9 +47,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "60764b7771f42b0eaf732b99:categories:Relógios Automotivos:/relogios-automotivos/",
+      "link": "https://www.nekarelogios.com.br/relogios-automotivos/"
     }
   ]
 }
