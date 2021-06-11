@@ -27,10 +27,12 @@
           "img": "/img/uploads/li_gold_banner_3-min.jpg"
         },
         {
-          "img": "/img/uploads/li_2rodas_banner_3-min.jpg"
+          "img": "/img/uploads/li_2rodas_banner_3-min.jpg",
+          "link": "https://www.nekarelogios.com.br/relogios-de-motos/"
         },
         {
-          "img": "/img/uploads/Relogios-femininos-mini-banner-70.jpg"
+          "img": "/img/uploads/Relogios-femininos-mini-banner-70.jpg",
+          "link": "https://www.nekarelogios.com.br/relogios-femininos/"
         }
       ]
     },
