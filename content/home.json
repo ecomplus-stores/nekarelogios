@@ -52,6 +52,30 @@
       "page": 1,
       "collection_id": "60764b7771f42b0eaf732b99:categories:Relógios Automotivos:/relogios-automotivos/",
       "link": "https://www.nekarelogios.com.br/relogios-automotivos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60764b8971f42b0eaf732bc5:categories:Relógios Femininos:/relogios-femininos/",
+      "link": "https://www.nekarelogios.com.br/relogios-femininos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60764b8071f42b0eaf732baf:categories:Relógios de Motos:/relogios-de-motos/",
+      "link": "https://www.nekarelogios.com.br/relogios-de-motos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60764ba971f42b0eaf732c12:categories:Relógios  Religiosos:/relogios-religiosos/",
+      "link": "https://www.nekarelogios.com.br/relogios-religiosos/"
     }
   ]
 }
